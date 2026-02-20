@@ -1,3 +1,7 @@
 This line is written by parent process
  This line is written by child process
+ This line is written by child process
+ This line is written by parent process
+ This line is written by parent process
+ This line is written by child process
  
